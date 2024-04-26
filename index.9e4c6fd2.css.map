@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["index.css"],"sourcesContent":["button {\r\n    padding: 8px 10px;\r\n    background-color: red;\r\n    color: white;\r\n    outline: none;\r\n    border: none;\r\n    border-radius: 5px;\r\n}"],"names":[],"version":3,"file":"index.9e4c6fd2.css.map","sourceRoot":"/__parcel_source_root/"}
