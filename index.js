@@ -4,7 +4,7 @@ import { AiFillBell } from "react-icons/ai";
 import toast, { Toaster } from "react-hot-toast";
 
 const Notification = () => {
-    const notify = () => toast.error('Here is your toast.', {
+    const notify = () => toast.success('Button Click Sucessfully.', {
         position: "top-right"
     });
     return (
