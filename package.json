@@ -1,11 +1,11 @@
 {
   "name": "react-toast",
   "version": "1.0.0",
-  "homepage": "https://coder-harsh.github.io/react-hot-toast/",
+  "homepage": "https://coder-harsh.github.io/react-hot-toast",
   "description": "React Toast Notification",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html",
+    "build": "parcel build index.html --public-url /react-hot-toast",
     "test": "jest",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
