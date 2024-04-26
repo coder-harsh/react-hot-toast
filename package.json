@@ -1,7 +1,7 @@
 {
   "name": "react-toast",
   "version": "1.0.0",
-  "homepage": "https://coder-harsh.github.io/react-hot-toast",
+  "homepage": "https://coder-harsh.github.io/react-hot-toast/",
   "description": "React Toast Notification",
   "scripts": {
     "start": "parcel index.html",
