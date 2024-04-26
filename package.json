@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "homepage": "https://coder-harsh.github.io/react-hot-toast",
   "description": "React Toast Notification",
-  "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
